@@ -1,3 +1,32 @@
+# 🚀 GitHub Repository Finder
+
+Este es un buscador de repositorios de GitHub, desarrollado con **Next.js 15**, **TypeScript** y **Tailwind CSS**. Permite a los usuarios seleccionar un lenguaje de programación y ver los repositorios más populares de GitHub, con detalles como ⭐ estrellas, 🔀 forks y 🐞 issues abiertos.
+
+---
+
+## 🛠️ **Tecnologías Utilizadas**
+- ⚛ **Next.js 15** - Framework de React para aplicaciones web modernas.
+- 💙 **TypeScript** - Para un código más seguro y con mejor mantenimiento.
+- 🎨 **Tailwind CSS** - Para un diseño atractivo y responsivo.
+- 🔍 **GitHub API** - Para obtener información actualizada de repositorios.
+
+---
+
+## 📸 **Vista Previa**
+📌 **Captura de pantalla (Pendiente de agregar)**  
+_Sube una imagen de la aplicación aquí._
+
+---
+
+## ⚙️ **Instalación y Uso**
+### 1️⃣ **Clonar el repositorio**
+```bash
+git clone https://github.com/mrphaox/github-repo-search.git
+cd github-repo-search
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -28,6 +57,7 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
 
 ## Deploy on Vercel
 
